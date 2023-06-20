@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **henrycho626@gmail.com**
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanChoThar&show_icons=true&theme=tokyonight)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/han-cho-thar-11a8b4205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/han-cho-thar-11a8b4205/" height="30" width="40" /></a>
