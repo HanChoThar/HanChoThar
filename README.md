@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Han Cho Thar</h1>
 <h3 align="center">A passionate web developer from myanmar</h3>
 
-- 🌱 I’m currently learning **Docker**
-
 - 👨‍💻 All of my projects are available at [https://github.com/HanChoThar?tab=repositories](https://github.com/HanChoThar?tab=repositories)
 
 - 💬 Ask me about **Laravel ,Vue**
